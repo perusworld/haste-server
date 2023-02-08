@@ -18,7 +18,7 @@
     "connect-route": "0.1.5",
     "connect": "3.7.0",
     "st": "1.2.2",
-    "winston": "0.6.2",
+    "winston": "3.8.2",
     "redis-url": "0.1.0",
     "redis": "0.8.1",
     "uglify-js": "2.6.0",
